@@ -5,7 +5,11 @@ a {
   color: #00B7FF; }
 
 .navbar {
-  height: 90px; }
+  height: 150px; }
+
+.logo {
+  height: 160px;
+  width: auto; }
 
 .landing-image {
   opacity: 0.5;
