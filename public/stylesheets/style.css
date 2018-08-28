@@ -4,23 +4,36 @@ body {
 a {
   color: #00B7FF; }
 
+.navbar {
+  height: 90px; }
+
+.landing-image {
+  opacity: 0.5;
+  max-height: 710px;
+  min-width: 100%;
+  z-index: -1; }
+
 .landing-header {
-  background-color: lightblue;
-  height: 400px;
+  background-color: #1d759b;
+  padding-top: 90px;
+  height: 800px;
   width: auto; }
 
 .middle-section {
-  background-color: white;
+  background-color: #23406d;
   height: 400px;
   width: auto; }
 
+.middle-text {
+  color: white; }
+
 .bottom-section {
-  background-color: #1450aa;
+  background-color: #64b0d1;
   height: 400px;
   width: auto; }
 
 .contact-us {
-  background-color: grey;
+  background-color: lightgrey;
   height: 200px;
   width: auto; }
 

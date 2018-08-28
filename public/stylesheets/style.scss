@@ -6,26 +6,44 @@ a {
   color: #00B7FF;
 }
 
+.navbar{
+  height: 90px;
+}
+
+
+.landing-image{
+  opacity: 0.5;
+  max-height: 710px;
+  min-width: 100%;
+  z-index: -1;
+}
+
 .landing-header{
-  background-color: lightblue;
-  height: 400px;
+  background-color: rgb(29, 117, 155);
+  padding-top: 90px;
+  height: 800px;
   width: auto;
 }
 
 .middle-section{
-  background-color: white;
+  background-color: rgb(35, 64, 109);
   height: 400px;
   width: auto;
 }
 
+.middle-text{
+  color: white;
+}
+
+
 .bottom-section{
-  background-color: rgb(20, 80, 170);
+  background-color: rgb(100, 176, 209);
   height: 400px;
   width: auto;
 }
 
 .contact-us{
-  background-color: grey;
+  background-color: lightgrey;
   height: 200px;
   width: auto;
 }
