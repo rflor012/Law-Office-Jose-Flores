@@ -1,0 +1,27 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  color: #00B7FF; }
+
+.landing-header {
+  background-color: lightblue;
+  height: 400px;
+  width: auto; }
+
+.middle-section {
+  background-color: white;
+  height: 400px;
+  width: auto; }
+
+.bottom-section {
+  background-color: #1450aa;
+  height: 400px;
+  width: auto; }
+
+.contact-us {
+  background-color: grey;
+  height: 200px;
+  width: auto; }
+
+/*# sourceMappingURL=style.css.map */
