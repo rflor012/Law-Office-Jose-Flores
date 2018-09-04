@@ -15,18 +15,21 @@ a {
   width: auto;
 }
 
-.landing-image{
-  opacity: 0.5;
-  max-height: 710px;
-  min-width: 100%;
-  z-index: -1;
-}
-
 .landing-header{
+  background-image: url("../images/lawphoto.jpg");
   background-color: rgb(29, 117, 155);
+  background-size: cover;
+  opacity: 0.8;
+  background-repeat: no-repeat;
   padding-top: 90px;
   height: 800px;
-  width: auto;
+}
+
+.landing-title{
+  padding-top: 100px;
+  color: white;
+  font-size: 80px;
+  text-decoration-style: solid;
 }
 
 .middle-section{
@@ -36,11 +39,14 @@ a {
 }
 
 .middle-text{
+  padding-top: 50px;
   color: white;
 }
 
 
 .bottom-section{
+  padding-top: 50px;
+  color: white;
   background-color: rgb(100, 176, 209);
   height: 400px;
   width: auto;

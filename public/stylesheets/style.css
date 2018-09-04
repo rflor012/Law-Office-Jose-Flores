@@ -11,17 +11,20 @@ a {
   height: 160px;
   width: auto; }
 
-.landing-image {
-  opacity: 0.5;
-  max-height: 710px;
-  min-width: 100%;
-  z-index: -1; }
-
 .landing-header {
+  background-image: url("../images/lawphoto.jpg");
   background-color: #1d759b;
+  background-size: cover;
+  opacity: 0.8;
+  background-repeat: no-repeat;
   padding-top: 90px;
-  height: 800px;
-  width: auto; }
+  height: 800px; }
+
+.landing-title {
+  padding-top: 100px;
+  color: white;
+  font-size: 80px;
+  text-decoration-style: solid; }
 
 .middle-section {
   background-color: #23406d;
@@ -29,9 +32,12 @@ a {
   width: auto; }
 
 .middle-text {
+  padding-top: 50px;
   color: white; }
 
 .bottom-section {
+  padding-top: 50px;
+  color: white;
   background-color: #64b0d1;
   height: 400px;
   width: auto; }
